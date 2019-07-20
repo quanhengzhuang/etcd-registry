@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/coreos/etcd/clientv3"
-	"github.com/ncfwx/etcd-registry/registry"
 	"github.com/ncfwx/x/ip"
+	"github.com/quanhengzhuang/etcd-registry/registry"
 )
 
 var (
